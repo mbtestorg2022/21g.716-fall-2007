@@ -59,11 +59,48 @@ Over the weekend of the first week, students will inform professor of which of t
 
 ### I. Option #1
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Seven 3-page papers | 60% |
-| 3-hour final exam | 15% |
-| Class performance | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seven 3-page papers
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-hour final exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class performance
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1\. Papers. Note: This is a HASS-D subject and therefore requires a minimum of 20 pages of student writing distributed throughout the semester. There will be seven (7) scheduled paper assignments with a total of 21 pages. Only twenty (20) of these pages, however, will count for your semester grade. One informal one-page paper will count as a rough draft in preparation for a three-page paper that will be a rewrite and expansion of the one-page informal paper.
 
@@ -77,16 +114,90 @@ Each written page will count for up to three (3) percentage points. Therefore, e
 
 ### II. Option #2
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Five 4-page papers | 60% |
-| 3-hour final exam | 15% |
-| Class performance | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five 4-page papers
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-hour final exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class performance
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### III. Option #3
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Six short essays of variable length | 60% |
-| 3-hour final exam | 15% |
-| Class performance | 25%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Six short essays of variable length
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-hour final exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class performance
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
